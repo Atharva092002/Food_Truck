@@ -6,9 +6,9 @@ Customer can register in our portal and get his truck customized. We use 3d mode
 
 TOOLS USED:
   MERN STACK :
-    - Database: MongoDB
-    - Backend: ExpressJs over NodeJs
-    - Frontend: HTML, CSS, ReactJs
+  - Database: MongoDB
+  - Backend: ExpressJs over NodeJs
+  - Frontend: HTML, CSS, ReactJs
   Other Frameworks:
   - KonvaJs
   - Spline
