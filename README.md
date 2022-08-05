@@ -9,6 +9,7 @@ TOOLS USED:
   - Database: MongoDB
   - Backend: ExpressJs over NodeJs
   - Frontend: HTML, CSS, ReactJs
+  
   Other Frameworks:
   - KonvaJs
   - Spline
