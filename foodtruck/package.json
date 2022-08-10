@@ -1,7 +1,8 @@
 {
   "name": "foodtruck",
   "version": "0.1.0",
-  "proxy": "http://localhost:3001",
+  //"proxy": "http://localhost:3001",
+  "proxy":"https://foodtruck-nodeserver.herokuapp.com/",
   "private": true,
   "dependencies": {
     "@react-three/fiber": "^8.0.19",
